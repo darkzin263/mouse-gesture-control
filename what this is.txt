@@ -1,0 +1,6 @@
+this is a mouse  that works by tracking hand gestures using your web cam...
+how to us it
+open palm/hand >>> move cursor
+pinch >>> right click
+index and middle finger pointing up while others are down(ninjistu sort of )>> scroll..you scroll by 
+moving your hand up or down while holding the gesture  
